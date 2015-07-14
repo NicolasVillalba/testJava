@@ -1,0 +1,1 @@
+Ejercicios de parcial programación 1 definir la clase persona, y métodos para ordenar un arreglo de la misma
